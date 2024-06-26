@@ -1,6 +1,5 @@
-<script setup lang="ts">
+<script setup lang='ts'>
 </script>
-
 <template>
 
   <body class="main space-y-6">
